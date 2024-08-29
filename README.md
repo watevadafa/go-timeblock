@@ -132,7 +132,7 @@ To contribute to this project:
 
 ## License
 
-[MIT License](/LICENSE.md)
+[MIT License](/LICENSE)
 
 ## Contact
 
